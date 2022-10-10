@@ -1,4 +1,4 @@
 '''
-This is git tutorials
-trying to learn git for the projects
+This is an open source repo. for demo
+for leaning git 
 '''
